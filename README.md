@@ -1,6 +1,6 @@
-##Cobalt Oxides – Formation Energy Analysis
+# Cobalt Oxides – Formation Energy Analysis
 
-##Overview
+## Overview
 
 This project presents a data-driven analysis of formation energies in cobalt oxide systems obtained from density functional theory (DFT) simulations.
 
@@ -10,7 +10,7 @@ The goal is to explore how formation energy depends on:
 - hydrogen content (nH)
 - chemical environment (different reservoir conditions)
 
-##Dataset
+## Dataset
 
 The dataset contains processed simulation results with the following variables:
 
@@ -19,7 +19,7 @@ The dataset contains processed simulation results with the following variables:
 - Eform3: formation energy under H₂/H₂O reservoir conditions
 - nH: number of hydrogen atoms (discrete variable)
 
-##Analysis
+## Analysis
 
 The analysis focuses on visualizing trends in formation energy as a function of composition and hydrogen content.
 
@@ -33,7 +33,7 @@ Scatter plots are used to:
 - distinguish energy groupings based on hydrogen content
 - compare the influence of different chemical environments
 
-##Key Insights
+## Key Insights
 
 Formation energy shows a clear dependence on the Co/O ratio
 
@@ -43,7 +43,7 @@ The choice of chemical reservoir significantly affects the stability of configur
 
 Different environmental conditions lead to noticeably different energetic trends
 
-##Tools
+## Tools
 
 Python
 
@@ -51,6 +51,6 @@ pandas
 
 matplotlib / seaborn
 
-##Purpose
+## Purpose
 
 This project demonstrates how simulation data can be processed, visualized, and interpreted using a data science approach.
