@@ -27,6 +27,8 @@ Two scenarios are compared:
 - O₂ / H₂ reservoirs
 - H₂ / H₂O reservoirs
 
+![Formation Energy Plot](figures/energies_withoutSOLV.png)
+
 Scatter plots are used to:
 
 - identify trends with respect to composition
